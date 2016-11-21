@@ -91,7 +91,8 @@
         "src/mlp.h",
         "src/tansig_table.h",
         "silk/float",
-        "celt/x86/*.h"
+        "celt/x86/*.h",
+        "celt/arm/*.h"
       ],
       "public_header_files": [
         "include/*.h"
